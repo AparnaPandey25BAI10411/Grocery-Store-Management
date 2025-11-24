@@ -45,5 +45,3 @@ The Grocery Store Management System is a Python-based console application that h
 - Test customer section by creating an account and generating bills.
 
 ##  Screenshots (Optional)
-
-
